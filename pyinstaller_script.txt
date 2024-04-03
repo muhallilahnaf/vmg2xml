@@ -1,0 +1,1 @@
+pyinstaller -n "vmg2xml" --icon="vmg2xml.ico" --add-data="vmg2xml.ico;." --noconsole --onefile vmg2xml.py
