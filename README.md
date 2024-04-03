@@ -9,7 +9,7 @@ VMG files are old SMS backup files having the `.vmg` extension, used primarily b
 The XML file can be read by an app like [SMS Backup & Restore](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en&gl=US&pli=1) and you can restore the old SMS from your old Nokia/Samsung phone into an Android smartphone.
 
 Steps:
-1. Download [vmg2xml.exe](https://github.com/muhallilahnaf/vmg2xml).
+1. Download [vmg2xml.exe](https://github.com/muhallilahnaf/vmg2xml/releases/download/v1.0.0/vmg2xml.exe).
 2. Select the **folder** which contains the VMG files.
 3. Enter the **country code** *(e.g. +88)*.
 4. Click **Start**. VMG files will be converted to a single XML file.
